@@ -11,5 +11,12 @@
 
 👋 Hi! I'm h4ckNinja. I work in offensive security with a focus on web and devops. I enjoy writing scripts and tools and put them here on GitHub to share as my contribution to the community in the hopes that someone finds it useful.
 
+| Certifications acquired                                       |
+|---------------------------------------------------------------|
+| [Offensive Security Certified Professional](https://www.offensive-security.com/pwk-oscp/)     |
+| [Certified Red Team Operator](https://www.zeropointsecurity.co.uk/red-team-ops/overview) |
+| [GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)](https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/) (Intentionally let renewal lapse for financial reasons)                                |
+
+
 
 If you like my projects, consider [tipping me](https://ko-fi.com/h4ckninja). It helps me fund my caffeine addiction. Not required of course, but very much appreciated.
